@@ -106,6 +106,6 @@ Saya Yazid Madarizel dengan NIM 2305328 mengerjakan soal TP 4 dalam mata kuliah 
 
 ![data berhasil dihapus](https://github.com/user-attachments/assets/b5da68bc-fc5d-4523-b9aa-1e5b43e2d30f)
 
-![error semua field harus diisi](https://github.com/user-attachments/assets/ff02b63d-b930-4f37-b1b7-6784ddc852ba)
+
 
 
