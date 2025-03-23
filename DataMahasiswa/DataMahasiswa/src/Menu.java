@@ -180,13 +180,7 @@ public class Menu extends JFrame{
         String jurusan = (jurusanComboBox.getSelectedItem() != null)
                 ? jurusanComboBox.getSelectedItem().toString().trim()
                 : "";
-
-        // Validasi input tidak boleh kosong
-        if (nim.isEmpty() || nama.isEmpty() || jenisKelamin.isEmpty() || jurusan.isEmpty()) {
-            JOptionPane.showMessageDialog(null, "Semua field harus diisi!", "Error", JOptionPane.ERROR_MESSAGE);
-            return;
-        }
-
+        
         // Tambahkan data ke dalam List
         listMahasiswa.add(new Mahasiswa(nim, nama, jenisKelamin, jurusan));
 
@@ -219,12 +213,6 @@ public class Menu extends JFrame{
         String jurusan = (jurusanComboBox.getSelectedItem() != null)
                 ? jurusanComboBox.getSelectedItem().toString().trim()
                 : "";
-
-        // Validasi input tidak boleh kosong
-        if (nim.isEmpty() || nama.isEmpty() || jenisKelamin.isEmpty() || jurusan.isEmpty()) {
-            JOptionPane.showMessageDialog(null, "Semua field harus diisi!", "Error", JOptionPane.ERROR_MESSAGE);
-            return;
-        }
 
         // Ubah data mahasiswa di list
         Mahasiswa mhs = listMahasiswa.get(selectedIndex);
