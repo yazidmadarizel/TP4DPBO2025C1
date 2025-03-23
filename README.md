@@ -88,11 +88,6 @@ Saya Yazid Madarizel dengan NIM 2305328 mengerjakan soal TP 4 dalam mata kuliah 
 3. Sistem mengembalikan tombol **Perbarui** menjadi **Tambah**  
 4. Sistem menyembunyikan tombol **Hapus**
 
-##### **Penanganan Kesalahan**  
-- Validasi input untuk memastikan semua kolom terisi sebelum tambah atau perbarui  
-- Dialog konfirmasi untuk mencegah penghapusan data yang tidak disengaja  
-- Manajemen status UI untuk mencegah operasi yang tidak sesuai  
-
 ---
 
 ### **Dokumentasi Program**  
@@ -107,7 +102,7 @@ Saya Yazid Madarizel dengan NIM 2305328 mengerjakan soal TP 4 dalam mata kuliah 
 
 ![data berhasil diubah](https://github.com/user-attachments/assets/fd3cf41c-8183-4f30-be3e-88ca6a896d52)
 
-![konfirmasi hapus data](https://github.com/user-attachments/assets/9d11e5f6-5809-4bc3-a79a-7de63a5fe8af)
+
 
 ![data berhasil dihapus](https://github.com/user-attachments/assets/b5da68bc-fc5d-4523-b9aa-1e5b43e2d30f)
 
